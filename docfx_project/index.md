@@ -1,9 +1,7 @@
 # SHMART - Simple Head-Mounted Marker-based Augmented Realty Toolkit 
 
-![Image testing](./images/PNG_transparency_demonstration_1.png)
 
-
-[![](./images/application.png)](https://drive.google.com/drive/u/0/folders/1kQ5BDMqjmCQr5vpDzNKsZwKKBIIUBLJj "")
+[![](./images/application.png)](https://github.com/samridhi03/SHMART/blob/main/docfx_project/videos/video1.mp4 "")
 
 
 
@@ -131,11 +129,3 @@ Bottom_Right Button
 
 
 
-
-
-
-
-# This is the **HOMEPAGE**.
-Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
-## Quick Start Notes:
-1. Add images to the *images* folder if the file is referencing an image.
