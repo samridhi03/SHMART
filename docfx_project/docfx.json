@@ -4,7 +4,9 @@
       "src": [
         {
           "files": [
-            "src/ResearchProject/**.csproj"
+            "src/ResearchProject/**.csproj",
+            "src/ViewerAR/**.csproj"
+
           ]
         }
       ],
